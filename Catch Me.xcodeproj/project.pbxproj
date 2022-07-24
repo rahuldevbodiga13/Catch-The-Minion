@@ -13,6 +13,9 @@
 		1819B90D288BC412006928D8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1819B90B288BC412006928D8 /* Main.storyboard */; };
 		1819B90F288BC412006928D8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1819B90E288BC412006928D8 /* Assets.xcassets */; };
 		1819B912288BC412006928D8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1819B910288BC412006928D8 /* LaunchScreen.storyboard */; };
+		1819B91C288BC697006928D8 /* run.png in Resources */ = {isa = PBXBuildFile; fileRef = 1819B919288BC697006928D8 /* run.png */; };
+		1819B91D288BC697006928D8 /* minion-dancing.gif in Resources */ = {isa = PBXBuildFile; fileRef = 1819B91A288BC697006928D8 /* minion-dancing.gif */; };
+		1819B91E288BC697006928D8 /* minion.gif in Resources */ = {isa = PBXBuildFile; fileRef = 1819B91B288BC697006928D8 /* minion.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		1819B90E288BC412006928D8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1819B911288BC412006928D8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1819B913288BC412006928D8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1819B919288BC697006928D8 /* run.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = run.png; sourceTree = "<group>"; };
+		1819B91A288BC697006928D8 /* minion-dancing.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "minion-dancing.gif"; sourceTree = "<group>"; };
+		1819B91B288BC697006928D8 /* minion.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = minion.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +62,9 @@
 		1819B904288BC412006928D8 /* Catch Me */ = {
 			isa = PBXGroup;
 			children = (
+				1819B91A288BC697006928D8 /* minion-dancing.gif */,
+				1819B91B288BC697006928D8 /* minion.gif */,
+				1819B919288BC697006928D8 /* run.png */,
 				1819B905288BC412006928D8 /* AppDelegate.swift */,
 				1819B907288BC412006928D8 /* SceneDelegate.swift */,
 				1819B909288BC412006928D8 /* ViewController.swift */,
@@ -128,6 +137,9 @@
 				1819B912288BC412006928D8 /* LaunchScreen.storyboard in Resources */,
 				1819B90F288BC412006928D8 /* Assets.xcassets in Resources */,
 				1819B90D288BC412006928D8 /* Main.storyboard in Resources */,
+				1819B91D288BC697006928D8 /* minion-dancing.gif in Resources */,
+				1819B91E288BC697006928D8 /* minion.gif in Resources */,
+				1819B91C288BC697006928D8 /* run.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
